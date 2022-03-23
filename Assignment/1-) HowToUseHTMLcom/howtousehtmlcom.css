@@ -1,0 +1,65 @@
+#Logo{ padding: 5px 5px 5px 5px;
+
+}
+.search-input-1 {
+    width: 150px;
+    height: 27px;
+    background: #ffffff;
+    color: #c0c0c0;
+    border-color: #232323;
+    border-width: 1px;
+    border-style: solid;
+    border-radius: 32px 32px 32px 32px;
+    font-family: "Helvetica";
+    font-weight: 400;
+    font-size: 14px;
+    text-align: left;
+}
+h1{
+  color: seagreen;
+  background-color: purple;
+  width:-Webkit-fit-content;
+
+
+
+}
+head{
+
+}
+
+body{
+  background-image: url("background.jpg");
+   background-repeat: no-repeat;
+   background-size: cover;
+   background-attachment: fixed;
+   opacity: 0.7;
+   color: white;
+
+}
+p{
+  background-color: rgba(76, 175, 80, 0.3);
+}
+footer{
+  opacity: 0.4;
+  width: -Webkit-fit-content;
+
+}
+
+div{
+
+  font-size: 40px;
+  text-decoration: underline;
+  background: red;
+  width:-Webkit-fit-content;
+
+
+}
+iframe{
+  vertical-align: center;
+}
+textarea{
+  vertical-align: middle;
+  font-size: 25px;
+  background-color: lightblue;
+
+}
